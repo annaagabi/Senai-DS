@@ -1,4 +1,4 @@
-# Site com a matriz curricular do curso de desenvolvimento de sistemas
+# MATRIZ CURRICULAR
 
 Projeto desenvolvido para o Senai Suíço-Brasileira "Paulo Ernesto Tolle" com o intuito de criar uma página web com a matriz curricular do curso técnico de desenvolvimento de sistemas.
 
@@ -7,7 +7,7 @@ Projeto desenvolvido para o Senai Suíço-Brasileira "Paulo Ernesto Tolle" com o
 
 ## Links
 
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/3gVN4Aly9K953xhAnKLFMQ/Site-FPOO?type=design&mode=design&t=uoNIlvDMrP8Ogvvl-1) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://reserva-biblioteca.vercel.app/) 
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/file/3gVN4Aly9K953xhAnKLFMQ/Site-FPOO?type=design&mode=design&t=uoNIlvDMrP8Ogvvl-1) [![Vercel](https://skillicons.dev/icons?i=vercel)](https://matriz-curricular-ds.vercel.app/) 
 
 ## Autores
 
